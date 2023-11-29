@@ -1,2 +1,2 @@
 # repo-prueba
-Pruebas
+Pruebas de repositorio
